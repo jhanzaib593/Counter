@@ -1,0 +1,28 @@
+.counter-num{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  padding-bottom: 18px;
+}
+h2{
+  padding: 0 17px;
+}
+button{
+  margin: auto 0;
+  background-color: #a5a5a5;
+  border: none;
+  color: white;
+  font-weight: bolder;
+  font-size: 24px;
+  padding: 8px;
+
+}
+.main{
+  box-shadow: 1px 0px 15px 4px #939393;
+  padding: 1.5em 5em 5em 5em;
+  border-radius: 13px;
+  background-color: white;
+
+}
